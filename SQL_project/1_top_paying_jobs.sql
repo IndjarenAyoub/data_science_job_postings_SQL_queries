@@ -4,13 +4,13 @@ What are the highest-paying remote Data Analyst roles?
 
 Details:
 
-Identify the top 10 highest-paying Data Analyst positions available for remote work.
+Identify the top 10 highest-paying Data Scientist positions available for remote work.
 Focus specifically on job postings with specified salaries, excluding those with null values.
 Bonus: Include the names of the companies offering the top 10 roles.
 Purpose:
-This query aims to shed light on the most lucrative opportunities for Data Analysts, particularly 
+This query aims to shed light on the most lucrative opportunities for Data Scientists, particularly 
 those offering remote work options. By highlighting these high-paying roles and providing insights into 
-employment options and location flexibility, this query helps Data Analysts make informed career 
+employment options and location flexibility, this query helps Data Scientists make informed career 
 decisions.
 */
 
