@@ -1,10 +1,16 @@
 /*
-Question: What are the most in-demand skills for data analysts?
-- Join job postings to inner join table similar to query 2
-- Identify the top 5 in-demand skills for a data analyst.
-- Focus on all job postings.
-- Why? Retrieves the top 5 skills with the highest demand in the job market, 
-    providing insights into the most valuable skills for job seekers.
+Query Objective:
+Determining the most in-demand skills for Data Analysts.
+
+Details:
+
+Perform an inner join between job postings and a similar table as in query 2 to gather relevant data.
+Identify the top 5 in-demand skills for Data Analyst roles.
+Consider all job postings in the analysis.
+Purpose:
+This query aims to uncover the top 5 skills with the highest demand in the job market for Data Analyst 
+positions. By analyzing the most in-demand skills, this query provides valuable insights for job seekers,
+ helping them prioritize skill development and enhance their competitiveness in the job market.
 */
 
 SELECT 
