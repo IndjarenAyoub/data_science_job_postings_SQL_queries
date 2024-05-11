@@ -32,5 +32,7 @@ FROM
     jobs_skills
 INNER JOIN skills_job_dim sj ON sj.job_id = jobs_skills.job_id
 INNER JOIN skills_dim sd ON sd.skill_id = sj.skill_id
+ORDER BY
+    salary_year_avg DESC;
 
     
