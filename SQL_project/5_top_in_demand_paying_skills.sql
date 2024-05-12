@@ -5,11 +5,7 @@ Identifying the most optimal skills to learn for Data Scientists.
 Details:
 
 Analyze skills that are both in high demand and associated with high average salaries for 
-<<<<<<< HEAD
-Data science roles.
-=======
 Data Scientist roles.
->>>>>>> 8eeccce7b2d509d642c60d97444da91a5cd5bdef
 Focus specifically on remote positions with specified salaries.
 Purpose:
 This analysis targets skills that offer a combination of job security (due to high demand) 
