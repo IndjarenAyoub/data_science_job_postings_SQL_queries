@@ -1,16 +1,16 @@
 /*
 Query Objective:
-Identifying the most optimal skills to learn for Data Analysts.
+Identifying the most optimal skills to learn for Data Scientists.
 
 Details:
 
 Analyze skills that are both in high demand and associated with high average salaries for 
-Data Analyst roles.
+Data science roles.
 Focus specifically on remote positions with specified salaries.
 Purpose:
 This analysis targets skills that offer a combination of job security (due to high demand) 
 and financial benefits (due to high salaries), providing strategic insights for individuals seeking 
-to develop their careers in data analysis. By identifying these optimal skills, individuals can make 
+to develop their careers in data science. By identifying these optimal skills, individuals can make 
 informed decisions about skill acquisition and prioritize areas of study for career advancement.
 */
 
