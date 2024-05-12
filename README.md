@@ -93,7 +93,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - **AWS** is also highly sought after, with a bold count of 2.
 Other skills like **Pytorch**, **Tensorflow**, **Spark**, and **Java** show varying degrees of demand.
 
-![Top Paying Skills](assets\Count_Skills_Top_10_Paying_ Jobs.png)
+![Top Paying Skills](assets\Count_Skills_Top_10_Paying_Jobs.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data scientists.
 
 ### 3. In-Demand Skills for Data Scientists
