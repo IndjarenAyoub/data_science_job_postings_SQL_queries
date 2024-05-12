@@ -58,9 +58,11 @@ SELECT
     skill_average_salary
 FROM most_in_demand
 INNER JOIN most_paying ON most_paying.skill_id = most_in_demand.skill_id
+WHERE  
+    demand_count > 10
 ORDER BY
-    demand_count DESC,
-    skill_average_salary DESC
+    skill_average_salary DESC,
+    demand_count DESC 
 LIMIT 10
 
 /*
@@ -133,6 +135,6 @@ GROUP BY
     skills_dim.skills
 HAVING COUNT(skills_job_dim.job_id) > 10
 ORDER BY
-    demand_count DESC,
-    skill_average_salary DESC
+    skill_average_salary DESC,
+    demand_count DESC 
 LIMIT 10
