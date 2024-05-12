@@ -1,5 +1,7 @@
-# SQL Course Database
-This repository contains the SQL course database, which includes tables for managing company information, job postings, and skills.
+# Introduction
+📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+
+🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 ## Database Schema
 The database consists of the following tables:
