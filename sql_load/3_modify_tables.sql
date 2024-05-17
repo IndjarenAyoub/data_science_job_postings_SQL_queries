@@ -23,8 +23,6 @@ NOTE: If you are having issues with permissions. And you get error:
 
 */
 
--- NOTE: This has been updated from the video to fix issues with encoding
-
 COPY company_dim
 FROM 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PostgreSQL 16\company_dim.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
